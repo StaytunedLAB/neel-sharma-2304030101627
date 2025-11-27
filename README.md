@@ -1,3 +1,4 @@
+ 
 # 🚀 StaytunedLABS Internship Repository: Welcome!
 
 We are excited to welcome you to StaytunedLABS! This repository is your home base for the internship, containing all the code and documentation you need.
@@ -32,3 +33,5 @@ Start with our **[Documentation Index](./docs/index.md)** for comprehensive guid
 - Connect to [Discord](https://discord.com/invite/B8brHwTMf) Channel.
 
 We're glad to have you! Let's build something great together.
+
+
